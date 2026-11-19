@@ -1,0 +1,41 @@
+python-dotenv
+
+#ml
+numpy
+scikit-learn 
+xgboost
+lightgbm
+statsmodels
+
+#dl
+torch 
+torchvision
+
+#data analytics
+shap
+matplotlib
+seaborn
+plotly
+
+#langchain - langgraph 
+langgraph
+langchain
+langchain_core
+langchain_groq
+langchain_community
+
+#for RAG 
+faiss-cpu
+sentence-transformers
+
+#database_memeory
+psycopg2-binary
+asyncpg
+sqlalchemy
+
+#api and tool
+fastapi 
+jinja2
+uvicorn
+pdfkit
+reportlab
